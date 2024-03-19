@@ -1,0 +1,25 @@
+.checkout-title {
+  color: #616e7c;
+  margin: 0;
+  padding: 0;
+}
+
+.checkout-rupees {
+  color: black;
+}
+.checkout-items {
+  color: #616e7c;
+  padding: 0;
+  margin: 0;
+}
+.checkout-btn {
+  background-color: #0b69ff;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 6px;
+  width: 150px;
+  padding: 10px;
+  margin-top: 6px;
+  font-size: 18px;
+}
